@@ -8,3 +8,12 @@ Cluster Access Mode
 Modes Supporting UC - Single User - multiple language support, not shareable; Shared - Shareable, Python, Scala and SQL legacy table ACLs
 
 Modes not Supporting UC - No isolation shared; multiple language support
+
+
+Cluster Types-
+All-purpose Clusters
+Job Clusters
+
+.----------
+DEMO
+Creaate Compute Resources
